@@ -1,8 +1,8 @@
 const quotes = [
-  'Believe you can and you\'re halfway there.',
-  'Do one thing every day that scares you.',
-  'Stay hungry, stay foolish.',
-  'The best way to get started is to quit talking and begin doing.'
+  'Anita is always correct',
+  'Frank is always wrong',
+  'A foolish man, Frank was once called',
+  'Give Gebba (Spelling) a pet from Ed'
 ];
 
 function newQuote() {
