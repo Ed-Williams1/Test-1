@@ -13,3 +13,17 @@ function newQuote() {
   const randomIndex = Math.floor(Math.random() * quotes.length);
   document.getElementById('quote').textContent = quotes[randomIndex];
 }
+
+body {
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("frank.jpg"); /* put your image in the repo */
+  background-size: cover;
+  background-position: center;
+}
