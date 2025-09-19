@@ -2,7 +2,11 @@ const quotes = [
   'Anita is always correct',
   'Frank is always wrong',
   'A foolish man, Frank was once called',
-  'Give Gebba (Spelling) a pet from Ed'
+  'Give Gebba (Spelling) a pet from Ed',
+  'Frank is a half decent bloke',
+  'Frank, who used to be the tank',
+  'Ok, i"m running out of Frank quotes',
+  'All quality Frank material is now gone'
 ];
 
 function newQuote() {
